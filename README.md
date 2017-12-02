@@ -3,9 +3,9 @@ Example of protobuf-net with unity
 
 Source code explanation: https://wobesdev.wordpress.com/
 
-Results:
+The results:
 
-![alt text](https://i.imgur.com/94OBq6b.png)
+![alt text](https://i.imgur.com/QAwUTop.png)
 
 Outputs: 
 
