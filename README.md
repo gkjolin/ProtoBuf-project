@@ -1,7 +1,7 @@
 # ProtoBuf-project
 Example of protobuf-net with unity
 
-Source code explanation: https://wobesdev.wordpress.com/
+Source code explanation and tips: https://wobesdev.wordpress.com/2017/12/02/serialization-stuff/
 
 The results:
 
